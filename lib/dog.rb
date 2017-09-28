@@ -2,6 +2,6 @@ class Dog
 
 end
 
-Gina = Dog.new
-Bobby = Dog.new
-Daisy = Dog.new
+fido = Dog.new
+snoppy = Dog.new
+lassie = Dog.new
